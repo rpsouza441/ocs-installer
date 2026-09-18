@@ -8,6 +8,7 @@ files/*.log
 files/*.exe
 files/*.zip
 
+
 # Caches e temporarios
 **/__pycache__/
 *.tmp
