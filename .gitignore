@@ -1,0 +1,14 @@
+# Configuracao local de clientes. Use clients.example.json como modelo.
+clients.json
+
+# Artefatos de execucao e homologacao
+*.log
+.backup/
+files/*.log
+files/*.exe
+files/*.zip
+
+# Caches e temporarios
+**/__pycache__/
+*.tmp
+*.bak

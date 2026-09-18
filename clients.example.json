@@ -1,0 +1,13 @@
+{
+  "server": "https://ocs.example.com/ocsinventory",
+  "clients": [
+    {
+      "name": "Cliente Exemplo 1",
+      "tag": "CLIENTE-01"
+    },
+    {
+      "name": "Cliente Exemplo 2",
+      "tag": "CLIENTE-02"
+    }
+  ]
+}
